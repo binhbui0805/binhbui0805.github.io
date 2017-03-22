@@ -20,7 +20,7 @@ function userChat() {
   console.log("✍ Code for custom prompts goes here");
   
 if (uppercase == "HI") { 
-sendSpecialChat = [true, "What do you know to know about me ?"];
+sendSpecialChat = [true, "What do you want to know about me ?"];
 }
   
 if (uppercase == "HELLO") { 
